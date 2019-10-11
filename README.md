@@ -1,3 +1,6 @@
 # karman_vortex
+# カルマン渦
 
-Assignment for Lecture "Aerodynamics2D", offered by the department of Aerospace and Astronautical Engineering, the faculty of engineering, The University of Tokyo.
+Assignment for Lecture "Aerodynamics2D".
+
+空気力学第二Dの講義課題です.
