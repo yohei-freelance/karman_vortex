@@ -2,7 +2,7 @@
 # カルマン渦の可視化
 
 Assignment for Lecture "Aerodynamics2D".
-空気力学第二Dの課題です.
+空気力学第二Dの課題です.(専門過程/1単位分.)
 
 レポートの内容はこちらから.
 Content of Report can be accessed by the link below. <br>
